@@ -1,5 +1,5 @@
 <?php
-$num = rand();
+
 $row = 3;
 $col = 5;
 $colors = array('red','yellow','blue','gray','maroon','brown','green');
